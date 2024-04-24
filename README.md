@@ -15,7 +15,7 @@ We welcome contributions from the developer community! Whether you've crafted a 
 
 Before you contribute, ensure you have:
 
- * An active Pro account with docAnalyzer.AI.
+ * An active Pro account with docAnalyzer.ai.
  * The latest version of the docAnalyzer API.
  * Tested your code to ensure it works effectively with the docAnalyzer API.
 
